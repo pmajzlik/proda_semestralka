@@ -1,0 +1,1 @@
+Spuštení bylo náročné, ale nakonec se to podařilo. Výstupem byla mapa s body na souřadnicích Londýna, Olomouce a Paříže.
